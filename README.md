@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `yarn tailwind:css`
+
+Builds the necessary CSS required to use the classes provided by TailwindCSS. You MUST run this once.
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
